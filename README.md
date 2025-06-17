@@ -17,3 +17,6 @@ Tải lên file cần xác thực
 Nhập chữ ký và public key
 Kiểm tra tính toàn vẹn của file
 Hiển thị kết quả xác thực rõ ràng
+
+Giao diện
+![image](https://github.com/user-attachments/assets/1cd30c01-b9b3-42b6-916b-107340d84f84)
